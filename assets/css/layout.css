@@ -10,7 +10,7 @@ body {
 	background-color: white;
 	position: relative;
 	margin: 5% 5px;
-	width: 90%;
+	width: 95%;
 	max-width: 960px;
 	padding: 20px;
 	border-radius: 15px;
@@ -93,7 +93,7 @@ img {
 }
 
 .button-main {
-	width: 15vh;
+	width: 140px;
 	display: inline-block;
 	height: 38px;
 	padding: 0 30px;
